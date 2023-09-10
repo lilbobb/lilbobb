@@ -11,7 +11,7 @@ I'm a Software Engineer, studied Software Engineering at AltSchool of Africa. I'
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Open Source, Reactjs, and Vuejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front end Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1OzClNM7ryt-dhbWZp_66nGQ2bqEsYlOIdWodhxRNzcw/edit) and contact me by emailing ukurowo@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1OzClNM7ryt-dhbWZp_66nGQ2bqEsYlOIdWodhxRNzcw) and contact me by emailing ukurowo@gmail.com.
 
 ---
 
