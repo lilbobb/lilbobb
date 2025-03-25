@@ -8,9 +8,9 @@ I'm a Software Engineer who studied at AltSchool of Africa. I'm passionate about
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning HTML, CSS, Figma, JavaScript, Open Source, Reactjs, Nextjs and Vuejs.
+- 🌱 I’m currently learning HTML, CSS, Figma, JavaScript, TypeScript, Open Source, Reactjs, Nextjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front end Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front end Engineer, or UI Engineer (Junior level/mid).
 - 📫 You can contact me by emailing ukurowo@gmail.com.
 
 ---
