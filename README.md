@@ -9,7 +9,7 @@ I'm a Software Engineer with hands-on experience in React, Next.js, and TypeScri
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 My current stack: HTML, CSS, Figma, JavaScript, TypeScript, Open Source, Reactjs, Nextjs.
-- 😊 I’m interested in open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m interested in open source projects, hackathons, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Junior level/mid).
 - 📫 You can contact me by emailing ukurowo@gmail.com.
 
